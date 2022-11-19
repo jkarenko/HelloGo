@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu-22.04" type="wsl" uuid="7892014d-e8ca-4447-a088-7ebb20b7aa58">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+          <option name="projectRootOnTarget" value="/mnt/j/JetBrains/Toolbox/apps/Goland/ch-0/222.4345.24/jbr/bin&#10;/awesomeProject" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/juho/go" />
+            <option name="goRoot" value="/usr/bin/go" />
+            <option name="goVersion" value="go1.18.1 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+      <target name="WSL - Ubuntu-22.042" type="wsl" uuid="04657e7d-e6cf-4fbd-be44-3dae38f0851e">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-22.04" />
+          <option name="projectRootOnTarget" value="/mnt/j/JetBrains/Toolbox/apps/Goland/ch-0/222.4345.24/jbr/bin&#10;/awesomeProject" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/juho/go" />
+            <option name="goRoot" value="/usr/bin/go" />
+            <option name="goVersion" value="go1.18.1 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
